@@ -685,7 +685,7 @@ Interesting articles: [1](https://www.theguardian.com/technology/2019/oct/09/ale
 [Back to top 🔝](#contents)
 
 ## Instant Messaging
-**Check out [this site](https://www.securemessagingapps.com/) for comparisons*.
+**Check out [securemessagingapps.com](https://www.securemessagingapps.com/) and [xchat.directory](https://xchat.directory/) for comparisons*.
 
 ⛔ **Avoid**
 - WhatsApp | [![](https://shields.tosdr.org/en_198.svg)](https://tosdr.org/en/service/198)
